@@ -1,4 +1,4 @@
 # Git Hub basic
 Just for test 
 
-[learning from] (www.google.com)
+[learning from] (http://www.google.com)
